@@ -33,8 +33,4 @@ int main() {
 /*
 Alright, buddy boy, what's the goal for this problem?
 ok, the goal here is to take a string of inputs and output
-how many vowels there are in the string. this is good. looks like 
-we can brute force this one, where we do a for loop to parse  thru
-the string from i to .length, and then tick up on vowels if ther is one that matches. 
-prob a nexted for loop becuase there are multiple vowels. 
 */
