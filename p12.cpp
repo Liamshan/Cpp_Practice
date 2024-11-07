@@ -16,3 +16,6 @@ int main() {
 
     return 0;
 }
+
+/* The objective is to practice with pointers.
+*/
