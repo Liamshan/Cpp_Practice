@@ -4,7 +4,7 @@
 std::vector<int> numbers = {20, 500, 10, 5, 100, 1, 50};
 
 
-std::string lin_sort(const int &n) {
+std::string lin_search(const int &n) {
     bool contains = false;
    for (int i = 0; i < numbers.size(); i++) {
         if (numbers[i] == n) {
@@ -28,7 +28,7 @@ int main() {
         std::cout << "Tell me a number: ";
     std::cin >> n;
 
-    std::cout << "the vector " << lin_sort(n) << n << "\n";
+    std::cout << "the vector " << lin_search(n) << n << "\n";
     }
 
     return 0;
