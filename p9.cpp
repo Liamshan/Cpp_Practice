@@ -7,11 +7,13 @@ std::vector<int> selec_sort(std::vector<int> &vect) {
 
     for (int i = 0; i < vect.size(); i++) {
         smallest = vect[i];
-        for (int j = 1; j < vect.size()-i; j++)
-        if (vect[i] > vect[i + j]) {  //if number is bigger than next number
+        for (int j = 1; j < vect.size()-i; j++) {
+            if (vect[i] > vect[i + j]) {  //if number is bigger than next number
             smallest = vect[i + j];  // save the value of new smallest
             smallest_position = i + j;  // save the position of new smallest
+            }
         }
+        
         int staging = vect[smallest_position];  // hold the value of the smallest while we swap them
         vect[i] = smallest; // put smallest value in i position
         vect[smallest_position] = staging; // put whatever was in 'i' into the newly open space
