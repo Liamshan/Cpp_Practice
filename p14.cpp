@@ -7,4 +7,5 @@ int main() {
 }
 
 /* Friggin nailing it
+gonna need more than this, not sure how this translates to how dark the green stuff is. 
 */

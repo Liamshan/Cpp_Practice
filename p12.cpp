@@ -18,5 +18,4 @@ int main() {
 }
 
 /* The objective is to practice with pointers.
-also chasing clout
 */
