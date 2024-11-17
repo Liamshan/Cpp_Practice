@@ -7,25 +7,9 @@ let's
 go
 asd
 fd
-s
-d
-fg
-h
-gdf
-gtrfd
-s
-gf
-
-as
-as
-df
-s
-fas
-df
-
-a
-sdaf
-das
+szsdfddbf
+zxcv
+zxcv
 
 
 is this cheating?
