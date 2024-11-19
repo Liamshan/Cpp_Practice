@@ -1,8 +1,35 @@
+#include <iostream>
+#include <vector>
 
+// Bubble Sort
 
+void bubble_sort(std::vector<int> &vect);
 
+int main () {
+    std::vector<int> numbers {543, 43, 4, 99, 1, 6, 77, 0};
+    std::cout << "Sup buddy, I can bubble sort any vector\n";
+    std::cout << "The sorted vector is: ";
 
+    bubble_sort(numbers);
 
+    for (int i = 0; i < numbers.size(); i++) {
+        std::cout << numbers[i] << ", ";
+    }
+
+    std::cout << std::endl;
+
+    return 0;
+}
+
+void bubble_sort(std::vector<int> &vect) {
+    for (int i = 0; i < vect.size() - 1; i++) {
+        for (int j = 0; j < vect.size() - 1; j++) {
+            if (vect[j] > vect[j + 1]) {
+                std::swap(vect[j], vect[j + 1]);
+            }
+        }
+    }
+}
 
 /*
 We're gonna talk about bubble sort right now. 
