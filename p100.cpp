@@ -5,3 +5,13 @@ will get back to doing this in the coming days, but I just really wanted to make
 opportunity for exercise and fun is going to be harder to find on seville
 anyway, not much of an excuse, becuase you could be working early morning and late night. 
 */
+
+/*
+dsfads
+fas
+df
+asdf
+ag
+fads
+fa
+sd*/

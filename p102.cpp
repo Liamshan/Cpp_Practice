@@ -6,3 +6,30 @@ then we head into the city to buy ceramics and stuff,
  then we will go to that bar we liked for those drinks we like, and then come backt o the campsite for
  dinner. gonna be dope. 
  */
+
+
+/*
+
+45tyhgf
+d
+etryu
+ik,
+mbnv
+g
+tj
+kh,m
+bnv
+g
+tyuj
+khm
+bnvb
+g
+hyu
+iklo
+k,hmjg
+nhbfg
+t
+ry
+uik,h
+mn
+*/
